@@ -6,8 +6,7 @@ const ContentBody = styled.div`
   line-height: 1.4;
 
   & > h1,
-  & > h2,
-  & > h3 {
+  & > h2 {
     font-size: 1.5em;
     color: rgba(0, 0, 0, 1);
   }
@@ -21,6 +20,7 @@ const ContentBody = styled.div`
 
   & > h3 {
     padding-top: 1.5rem;
+    text-align: center;
   }
 
   & > p {

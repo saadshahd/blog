@@ -25,7 +25,6 @@ const Preview = styled.div.attrs({
 const Title = styled.h1.attrs({
   fontSize: props => (props.type === 'twitter' ? '1.8rem' : '4.8rem'),
 })`
-  font-weight: 700;
   font-size: ${props => props.fontSize};
   margin: 10px 60px;
   color: #fff;
