@@ -1,5 +1,5 @@
 ---
-title: فيلا 69
+title: "فيلا 69"
 slug: i-love-villa-69
 cover: ./cover.jpeg
 date: 2018-09-21
