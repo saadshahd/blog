@@ -53,7 +53,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          excerpt
+          excerpt(pruneLength: 280)
           frontmatter {
             date(formatString: "DD/MMMM/YYYY", locale: "ar")
             title

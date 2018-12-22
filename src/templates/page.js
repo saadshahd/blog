@@ -51,7 +51,7 @@ export const pageQuery = graphql`
   query PageBySlug($slug: String!) {
     markdownRemark(frontmatter: { slug: { eq: $slug } }) {
       id
-      excerpt
+      excerpt(pruneLength: 280)
       html
       frontmatter {
         title
