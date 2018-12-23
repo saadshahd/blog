@@ -11,7 +11,7 @@ module.exports = {
   disqusSiteUrl: '',
   pathPrefix: '/blog',
   siteCover: '/images/cover.jpg',
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'UA-131263145-1',
   background_color: '#ffffff',
   theme_color: '#222222',
   display: 'minimal-ui',
