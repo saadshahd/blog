@@ -1,5 +1,5 @@
 ---
-title: "حدوتة صغيرة: الجِلفَ"
+title: "الجِلفَ"
 slug: yokel
 cover: ./cover.jpg
 date: 2018-10-10

@@ -1,5 +1,5 @@
 ---
-title: "حدوتة صغيرة: الحبوبة"
+title: "الحبوبة"
 slug: hon
 cover: ./cover.jpg
 date: 2018-10-13

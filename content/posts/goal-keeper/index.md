@@ -1,5 +1,5 @@
 ---
-title: "حدوتة صغيرة: وضعية حارس المرمى"
+title: "وضعية حارس المرمى"
 slug: goal-keeper
 cover: ./cover.jpg
 date: 2018-10-15
