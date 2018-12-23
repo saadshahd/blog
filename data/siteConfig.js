@@ -5,7 +5,8 @@ module.exports = {
   twitterUsername: 'saadoolk',
   authorAvatar: '/images/avatar.jpg',
   multilangPosts: false,
-  authorDescription: ``,
+  authorDescription: ` أنا سعد مبرمج كمبيوتر، شاركت في كتابة البيزكود لكام شركة ناشئة في مصر والأردن، مهتم بالأدب والفلسفة والبرمجة، ساقط في المدرسة والرياضيات، بحب السيما ومخرجيها وعندي حلم أكتب وأمثل.
+أه نسيت، بحب أقرا شعر بس مش بكتتبه والشعراء اللي على حق بالنسبة لي مقدسين.`,
   siteUrl: 'https://saadshahd.github.io',
   disqusSiteUrl: '',
   pathPrefix: '/blog',
