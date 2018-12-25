@@ -7,9 +7,9 @@ module.exports = {
   multilangPosts: false,
   authorDescription: ` أنا سعد مبرمج كمبيوتر، شاركت في كتابة البيزكود لكام شركة ناشئة في مصر والأردن، مهتم بالأدب والفلسفة والبرمجة، ساقط في المدرسة والرياضيات، بحب السيما ومخرجيها وعندي حلم أكتب وأمثل.
 أه نسيت، بحب أقرا شعر بس مش بكتتبه والشعراء اللي على حق بالنسبة لي مقدسين.`,
-  siteUrl: 'https://saadshahd.github.io',
+  siteUrl: 'https://xturbine.io',
   disqusSiteUrl: '',
-  pathPrefix: '/blog',
+  pathPrefix: '',
   siteCover: '/images/cover.jpg',
   googleAnalyticsId: 'UA-131263145-1',
   background_color: '#ffffff',
