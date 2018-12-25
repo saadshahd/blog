@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[التوربين الساكن]]></title><description><![CDATA[أنا سعد،]]></description><link>https://xturbine.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 25 Dec 2018 17:55:43 GMT</lastBuildDate><item><title><![CDATA[أفلام تُذهب التعاسة]]></title><description><![CDATA[هذه قائمة محدثة تحتوي الأفلام التي ساعدتني على تبديل التعاسة بإبتسامة.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[التوربين الساكن]]></title><description><![CDATA[أنا سعد،]]></description><link>https://xturbine.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 25 Dec 2018 22:28:58 GMT</lastBuildDate><item><title><![CDATA[أفلام تُذهب التعاسة]]></title><description><![CDATA[هذه قائمة محدثة تحتوي الأفلام التي ساعدتني على تبديل التعاسة بإبتسامة.
 ]]></description><link>https://xturbine.io/comedy-movies/</link><guid isPermaLink="false">https://xturbine.io/comedy-movies/</guid><pubDate>Sun, 23 Dec 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;هذه قائمة محدثة تحتوي الأفلام التي ساعدتني على تبديل التعاسة بإبتسامة.&lt;/p&gt;
 &lt;!-- end --&gt;
 &lt;h3 id=&quot;2&quot;&gt;&lt;a href=&quot;#2&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;(2)&lt;/h3&gt;
@@ -16,31 +16,31 @@
     &gt;&lt;/span&gt;
     &lt;picture&gt;
         &lt;source
-          srcset=&quot;/blog/static/57cea519b243673b1f39f531c1d7d351/f04b0/zoolander.webp 148w,
-/blog/static/57cea519b243673b1f39f531c1d7d351/30287/zoolander.webp 295w,
-/blog/static/57cea519b243673b1f39f531c1d7d351/cb54b/zoolander.webp 590w,
-/blog/static/57cea519b243673b1f39f531c1d7d351/d0733/zoolander.webp 885w,
-/blog/static/57cea519b243673b1f39f531c1d7d351/3bc83/zoolander.webp 1180w,
-/blog/static/57cea519b243673b1f39f531c1d7d351/77897/zoolander.webp 1770w,
-/blog/static/57cea519b243673b1f39f531c1d7d351/787ff/zoolander.webp 1915w&quot;
+          srcset=&quot;/static/57cea519b243673b1f39f531c1d7d351/f04b0/zoolander.webp 148w,
+/static/57cea519b243673b1f39f531c1d7d351/30287/zoolander.webp 295w,
+/static/57cea519b243673b1f39f531c1d7d351/cb54b/zoolander.webp 590w,
+/static/57cea519b243673b1f39f531c1d7d351/d0733/zoolander.webp 885w,
+/static/57cea519b243673b1f39f531c1d7d351/3bc83/zoolander.webp 1180w,
+/static/57cea519b243673b1f39f531c1d7d351/77897/zoolander.webp 1770w,
+/static/57cea519b243673b1f39f531c1d7d351/787ff/zoolander.webp 1915w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/blog/static/57cea519b243673b1f39f531c1d7d351/ce5e3/zoolander.png 148w,
-/blog/static/57cea519b243673b1f39f531c1d7d351/0df5d/zoolander.png 295w,
-/blog/static/57cea519b243673b1f39f531c1d7d351/03198/zoolander.png 590w,
-/blog/static/57cea519b243673b1f39f531c1d7d351/37596/zoolander.png 885w,
-/blog/static/57cea519b243673b1f39f531c1d7d351/e107c/zoolander.png 1180w,
-/blog/static/57cea519b243673b1f39f531c1d7d351/ecc95/zoolander.png 1770w,
-/blog/static/57cea519b243673b1f39f531c1d7d351/e2d4c/zoolander.png 1915w&quot;
+          srcset=&quot;/static/57cea519b243673b1f39f531c1d7d351/ce5e3/zoolander.png 148w,
+/static/57cea519b243673b1f39f531c1d7d351/0df5d/zoolander.png 295w,
+/static/57cea519b243673b1f39f531c1d7d351/03198/zoolander.png 590w,
+/static/57cea519b243673b1f39f531c1d7d351/37596/zoolander.png 885w,
+/static/57cea519b243673b1f39f531c1d7d351/e107c/zoolander.png 1180w,
+/static/57cea519b243673b1f39f531c1d7d351/ecc95/zoolander.png 1770w,
+/static/57cea519b243673b1f39f531c1d7d351/e2d4c/zoolander.png 1915w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/blog/static/57cea519b243673b1f39f531c1d7d351/03198/zoolander.png&quot;
+          src=&quot;/static/57cea519b243673b1f39f531c1d7d351/03198/zoolander.png&quot;
           alt=&quot;zoolander&quot;
           title=&quot;&quot;
         /&gt;
@@ -62,31 +62,31 @@
     &gt;&lt;/span&gt;
     &lt;picture&gt;
         &lt;source
-          srcset=&quot;/blog/static/622469884011c9ec886a540ac35c89ac/e87b9/lebowski.webp 148w,
-/blog/static/622469884011c9ec886a540ac35c89ac/404d7/lebowski.webp 295w,
-/blog/static/622469884011c9ec886a540ac35c89ac/6c5da/lebowski.webp 590w,
-/blog/static/622469884011c9ec886a540ac35c89ac/8fbeb/lebowski.webp 885w,
-/blog/static/622469884011c9ec886a540ac35c89ac/ef0b4/lebowski.webp 1180w,
-/blog/static/622469884011c9ec886a540ac35c89ac/e88a2/lebowski.webp 1770w,
-/blog/static/622469884011c9ec886a540ac35c89ac/d9156/lebowski.webp 1920w&quot;
+          srcset=&quot;/static/622469884011c9ec886a540ac35c89ac/e87b9/lebowski.webp 148w,
+/static/622469884011c9ec886a540ac35c89ac/404d7/lebowski.webp 295w,
+/static/622469884011c9ec886a540ac35c89ac/6c5da/lebowski.webp 590w,
+/static/622469884011c9ec886a540ac35c89ac/8fbeb/lebowski.webp 885w,
+/static/622469884011c9ec886a540ac35c89ac/ef0b4/lebowski.webp 1180w,
+/static/622469884011c9ec886a540ac35c89ac/e88a2/lebowski.webp 1770w,
+/static/622469884011c9ec886a540ac35c89ac/d9156/lebowski.webp 1920w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/blog/static/622469884011c9ec886a540ac35c89ac/fc706/lebowski.jpg 148w,
-/blog/static/622469884011c9ec886a540ac35c89ac/754cc/lebowski.jpg 295w,
-/blog/static/622469884011c9ec886a540ac35c89ac/8e0ad/lebowski.jpg 590w,
-/blog/static/622469884011c9ec886a540ac35c89ac/66519/lebowski.jpg 885w,
-/blog/static/622469884011c9ec886a540ac35c89ac/c57d2/lebowski.jpg 1180w,
-/blog/static/622469884011c9ec886a540ac35c89ac/58788/lebowski.jpg 1770w,
-/blog/static/622469884011c9ec886a540ac35c89ac/e7bfc/lebowski.jpg 1920w&quot;
+          srcset=&quot;/static/622469884011c9ec886a540ac35c89ac/fc706/lebowski.jpg 148w,
+/static/622469884011c9ec886a540ac35c89ac/754cc/lebowski.jpg 295w,
+/static/622469884011c9ec886a540ac35c89ac/8e0ad/lebowski.jpg 590w,
+/static/622469884011c9ec886a540ac35c89ac/66519/lebowski.jpg 885w,
+/static/622469884011c9ec886a540ac35c89ac/c57d2/lebowski.jpg 1180w,
+/static/622469884011c9ec886a540ac35c89ac/58788/lebowski.jpg 1770w,
+/static/622469884011c9ec886a540ac35c89ac/e7bfc/lebowski.jpg 1920w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/blog/static/622469884011c9ec886a540ac35c89ac/8e0ad/lebowski.jpg&quot;
+          src=&quot;/static/622469884011c9ec886a540ac35c89ac/8e0ad/lebowski.jpg&quot;
           alt=&quot;dude&quot;
           title=&quot;&quot;
         /&gt;
@@ -182,29 +182,29 @@
     &gt;&lt;/span&gt;
     &lt;picture&gt;
         &lt;source
-          srcset=&quot;/blog/static/8da728245fb4b7835d1f5be9f6f16145/e87b9/2.webp 148w,
-/blog/static/8da728245fb4b7835d1f5be9f6f16145/404d7/2.webp 295w,
-/blog/static/8da728245fb4b7835d1f5be9f6f16145/6c5da/2.webp 590w,
-/blog/static/8da728245fb4b7835d1f5be9f6f16145/8fbeb/2.webp 885w,
-/blog/static/8da728245fb4b7835d1f5be9f6f16145/ef0b4/2.webp 1180w,
-/blog/static/8da728245fb4b7835d1f5be9f6f16145/ed233/2.webp 1430w&quot;
+          srcset=&quot;/static/8da728245fb4b7835d1f5be9f6f16145/e87b9/2.webp 148w,
+/static/8da728245fb4b7835d1f5be9f6f16145/404d7/2.webp 295w,
+/static/8da728245fb4b7835d1f5be9f6f16145/6c5da/2.webp 590w,
+/static/8da728245fb4b7835d1f5be9f6f16145/8fbeb/2.webp 885w,
+/static/8da728245fb4b7835d1f5be9f6f16145/ef0b4/2.webp 1180w,
+/static/8da728245fb4b7835d1f5be9f6f16145/ed233/2.webp 1430w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/blog/static/8da728245fb4b7835d1f5be9f6f16145/fc706/2.jpg 148w,
-/blog/static/8da728245fb4b7835d1f5be9f6f16145/754cc/2.jpg 295w,
-/blog/static/8da728245fb4b7835d1f5be9f6f16145/8e0ad/2.jpg 590w,
-/blog/static/8da728245fb4b7835d1f5be9f6f16145/66519/2.jpg 885w,
-/blog/static/8da728245fb4b7835d1f5be9f6f16145/c57d2/2.jpg 1180w,
-/blog/static/8da728245fb4b7835d1f5be9f6f16145/5d83e/2.jpg 1430w&quot;
+          srcset=&quot;/static/8da728245fb4b7835d1f5be9f6f16145/fc706/2.jpg 148w,
+/static/8da728245fb4b7835d1f5be9f6f16145/754cc/2.jpg 295w,
+/static/8da728245fb4b7835d1f5be9f6f16145/8e0ad/2.jpg 590w,
+/static/8da728245fb4b7835d1f5be9f6f16145/66519/2.jpg 885w,
+/static/8da728245fb4b7835d1f5be9f6f16145/c57d2/2.jpg 1180w,
+/static/8da728245fb4b7835d1f5be9f6f16145/5d83e/2.jpg 1430w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/blog/static/8da728245fb4b7835d1f5be9f6f16145/8e0ad/2.jpg&quot;
+          src=&quot;/static/8da728245fb4b7835d1f5be9f6f16145/8e0ad/2.jpg&quot;
           alt=&quot;2&quot;
           title=&quot;&quot;
         /&gt;
@@ -220,29 +220,29 @@
     &gt;&lt;/span&gt;
     &lt;picture&gt;
         &lt;source
-          srcset=&quot;/blog/static/73171f3bddefc5f65eb7d127e716f3b0/e87b9/3.webp 148w,
-/blog/static/73171f3bddefc5f65eb7d127e716f3b0/404d7/3.webp 295w,
-/blog/static/73171f3bddefc5f65eb7d127e716f3b0/6c5da/3.webp 590w,
-/blog/static/73171f3bddefc5f65eb7d127e716f3b0/8fbeb/3.webp 885w,
-/blog/static/73171f3bddefc5f65eb7d127e716f3b0/ef0b4/3.webp 1180w,
-/blog/static/73171f3bddefc5f65eb7d127e716f3b0/4e900/3.webp 1200w&quot;
+          srcset=&quot;/static/73171f3bddefc5f65eb7d127e716f3b0/e87b9/3.webp 148w,
+/static/73171f3bddefc5f65eb7d127e716f3b0/404d7/3.webp 295w,
+/static/73171f3bddefc5f65eb7d127e716f3b0/6c5da/3.webp 590w,
+/static/73171f3bddefc5f65eb7d127e716f3b0/8fbeb/3.webp 885w,
+/static/73171f3bddefc5f65eb7d127e716f3b0/ef0b4/3.webp 1180w,
+/static/73171f3bddefc5f65eb7d127e716f3b0/4e900/3.webp 1200w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/blog/static/73171f3bddefc5f65eb7d127e716f3b0/fc706/3.jpg 148w,
-/blog/static/73171f3bddefc5f65eb7d127e716f3b0/754cc/3.jpg 295w,
-/blog/static/73171f3bddefc5f65eb7d127e716f3b0/8e0ad/3.jpg 590w,
-/blog/static/73171f3bddefc5f65eb7d127e716f3b0/66519/3.jpg 885w,
-/blog/static/73171f3bddefc5f65eb7d127e716f3b0/c57d2/3.jpg 1180w,
-/blog/static/73171f3bddefc5f65eb7d127e716f3b0/0afe5/3.jpg 1200w&quot;
+          srcset=&quot;/static/73171f3bddefc5f65eb7d127e716f3b0/fc706/3.jpg 148w,
+/static/73171f3bddefc5f65eb7d127e716f3b0/754cc/3.jpg 295w,
+/static/73171f3bddefc5f65eb7d127e716f3b0/8e0ad/3.jpg 590w,
+/static/73171f3bddefc5f65eb7d127e716f3b0/66519/3.jpg 885w,
+/static/73171f3bddefc5f65eb7d127e716f3b0/c57d2/3.jpg 1180w,
+/static/73171f3bddefc5f65eb7d127e716f3b0/0afe5/3.jpg 1200w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/blog/static/73171f3bddefc5f65eb7d127e716f3b0/8e0ad/3.jpg&quot;
+          src=&quot;/static/73171f3bddefc5f65eb7d127e716f3b0/8e0ad/3.jpg&quot;
           alt=&quot;3&quot;
           title=&quot;&quot;
         /&gt;
@@ -258,29 +258,29 @@
     &gt;&lt;/span&gt;
     &lt;picture&gt;
         &lt;source
-          srcset=&quot;/blog/static/1b752807e3205395cf79e185a9cd9e7a/e87b9/4.webp 148w,
-/blog/static/1b752807e3205395cf79e185a9cd9e7a/404d7/4.webp 295w,
-/blog/static/1b752807e3205395cf79e185a9cd9e7a/6c5da/4.webp 590w,
-/blog/static/1b752807e3205395cf79e185a9cd9e7a/8fbeb/4.webp 885w,
-/blog/static/1b752807e3205395cf79e185a9cd9e7a/ef0b4/4.webp 1180w,
-/blog/static/1b752807e3205395cf79e185a9cd9e7a/5b85a/4.webp 1600w&quot;
+          srcset=&quot;/static/1b752807e3205395cf79e185a9cd9e7a/e87b9/4.webp 148w,
+/static/1b752807e3205395cf79e185a9cd9e7a/404d7/4.webp 295w,
+/static/1b752807e3205395cf79e185a9cd9e7a/6c5da/4.webp 590w,
+/static/1b752807e3205395cf79e185a9cd9e7a/8fbeb/4.webp 885w,
+/static/1b752807e3205395cf79e185a9cd9e7a/ef0b4/4.webp 1180w,
+/static/1b752807e3205395cf79e185a9cd9e7a/5b85a/4.webp 1600w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/blog/static/1b752807e3205395cf79e185a9cd9e7a/fc706/4.jpg 148w,
-/blog/static/1b752807e3205395cf79e185a9cd9e7a/754cc/4.jpg 295w,
-/blog/static/1b752807e3205395cf79e185a9cd9e7a/8e0ad/4.jpg 590w,
-/blog/static/1b752807e3205395cf79e185a9cd9e7a/66519/4.jpg 885w,
-/blog/static/1b752807e3205395cf79e185a9cd9e7a/c57d2/4.jpg 1180w,
-/blog/static/1b752807e3205395cf79e185a9cd9e7a/e8f55/4.jpg 1600w&quot;
+          srcset=&quot;/static/1b752807e3205395cf79e185a9cd9e7a/fc706/4.jpg 148w,
+/static/1b752807e3205395cf79e185a9cd9e7a/754cc/4.jpg 295w,
+/static/1b752807e3205395cf79e185a9cd9e7a/8e0ad/4.jpg 590w,
+/static/1b752807e3205395cf79e185a9cd9e7a/66519/4.jpg 885w,
+/static/1b752807e3205395cf79e185a9cd9e7a/c57d2/4.jpg 1180w,
+/static/1b752807e3205395cf79e185a9cd9e7a/e8f55/4.jpg 1600w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/blog/static/1b752807e3205395cf79e185a9cd9e7a/8e0ad/4.jpg&quot;
+          src=&quot;/static/1b752807e3205395cf79e185a9cd9e7a/8e0ad/4.jpg&quot;
           alt=&quot;4&quot;
           title=&quot;&quot;
         /&gt;
@@ -296,29 +296,29 @@
     &gt;&lt;/span&gt;
     &lt;picture&gt;
         &lt;source
-          srcset=&quot;/blog/static/f2afeaece351d62736df9db0988fefc4/e87b9/5.webp 148w,
-/blog/static/f2afeaece351d62736df9db0988fefc4/404d7/5.webp 295w,
-/blog/static/f2afeaece351d62736df9db0988fefc4/6c5da/5.webp 590w,
-/blog/static/f2afeaece351d62736df9db0988fefc4/8fbeb/5.webp 885w,
-/blog/static/f2afeaece351d62736df9db0988fefc4/ef0b4/5.webp 1180w,
-/blog/static/f2afeaece351d62736df9db0988fefc4/5b85a/5.webp 1600w&quot;
+          srcset=&quot;/static/f2afeaece351d62736df9db0988fefc4/e87b9/5.webp 148w,
+/static/f2afeaece351d62736df9db0988fefc4/404d7/5.webp 295w,
+/static/f2afeaece351d62736df9db0988fefc4/6c5da/5.webp 590w,
+/static/f2afeaece351d62736df9db0988fefc4/8fbeb/5.webp 885w,
+/static/f2afeaece351d62736df9db0988fefc4/ef0b4/5.webp 1180w,
+/static/f2afeaece351d62736df9db0988fefc4/5b85a/5.webp 1600w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/blog/static/f2afeaece351d62736df9db0988fefc4/fc706/5.jpg 148w,
-/blog/static/f2afeaece351d62736df9db0988fefc4/754cc/5.jpg 295w,
-/blog/static/f2afeaece351d62736df9db0988fefc4/8e0ad/5.jpg 590w,
-/blog/static/f2afeaece351d62736df9db0988fefc4/66519/5.jpg 885w,
-/blog/static/f2afeaece351d62736df9db0988fefc4/c57d2/5.jpg 1180w,
-/blog/static/f2afeaece351d62736df9db0988fefc4/e8f55/5.jpg 1600w&quot;
+          srcset=&quot;/static/f2afeaece351d62736df9db0988fefc4/fc706/5.jpg 148w,
+/static/f2afeaece351d62736df9db0988fefc4/754cc/5.jpg 295w,
+/static/f2afeaece351d62736df9db0988fefc4/8e0ad/5.jpg 590w,
+/static/f2afeaece351d62736df9db0988fefc4/66519/5.jpg 885w,
+/static/f2afeaece351d62736df9db0988fefc4/c57d2/5.jpg 1180w,
+/static/f2afeaece351d62736df9db0988fefc4/e8f55/5.jpg 1600w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/blog/static/f2afeaece351d62736df9db0988fefc4/8e0ad/5.jpg&quot;
+          src=&quot;/static/f2afeaece351d62736df9db0988fefc4/8e0ad/5.jpg&quot;
           alt=&quot;5&quot;
           title=&quot;&quot;
         /&gt;
