@@ -96,7 +96,7 @@ class Pagination extends React.Component {
     return (
       <PaginationWrapper>
         {currentPage !== 1 ? (
-          <PreviousBtn to={previousUrl}>‹ Newer posts</PreviousBtn>
+          <PreviousBtn to={previousUrl}>‹ كتابات أجدد</PreviousBtn>
         ) : (
           <Spacer className="previous" />
         )}
