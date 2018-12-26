@@ -49,7 +49,13 @@ module.exports = {
       },
     },
     `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
+    {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+        quality: 100,
+        pngCompressionLevel: 0
+      },
+    },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {

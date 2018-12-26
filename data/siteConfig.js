@@ -9,7 +9,7 @@ module.exports = {
 أه نسيت، بحب أقرا شعر بس مش بكتتبه والشعراء اللي على حق بالنسبة لي مقدسين.`,
   siteUrl: 'https://xturbine.io',
   disqusSiteUrl: '',
-  pathPrefix: '',
+  pathPrefix: '/',
   siteCover: '/images/cover.jpg',
   googleAnalyticsId: 'UA-131263145-1',
   background_color: '#ffffff',
