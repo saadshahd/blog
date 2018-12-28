@@ -5,6 +5,7 @@ module.exports = {
     title: config.siteTitle,
     author: config.authorName,
     description: config.siteDescription,
+    siteUrl: config.siteUrl,
   }, config, {}),
   pathPrefix: config.pathPrefix,
   plugins: [
@@ -21,6 +22,14 @@ module.exports = {
         path: `${__dirname}/content/pages`,
         name: 'pages',
       },
+    },
+    {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: ['Mirza', 'Rakkas']
+        }
+      }
     },
     {
       resolve: `gatsby-transformer-remark`,
@@ -41,10 +50,18 @@ module.exports = {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
+          {
+            resolve: `gatsby-remark-external-links`,
+            options: {
+              target: `_blank`,
+              rel: `noopener noreferrer`
+            }
+          },
           'gatsby-remark-prismjs',
           'gatsby-remark-copy-linked-files',
           'gatsby-remark-smartypants',
           'gatsby-remark-autolink-headers',
+          `gatsby-remark-reading-time`,
         ],
       },
     },
@@ -62,10 +79,28 @@ module.exports = {
         trackingId: config.googleAnalyticsId,
       },
     },
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: config.siteUrl,
+      },
+    },
+    {
+      resolve: `gatsby-source-goodreads`,
+      options: {
+        developerKey:  `En1uvlTORPKbTM7UBy5yiA`,
+        goodReadsUserId: `35191302`,
+        userShelf: `read`
+      }
+    },
+    `gatsby-plugin-remove-trailing-slashes`,
+    `gatsby-plugin-nprogress`,
     `gatsby-plugin-feed`,
-    `gatsby-plugin-offline`,
+    `gatsby-plugin-remove-serviceworker`,
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sitemap`,
+    `gatsby-plugin-robots-txt`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -78,5 +113,12 @@ module.exports = {
         icon: config.icon,
       }
     },
+    {
+      resolve: `gatsby-plugin-hotjar`,
+      options: {
+        id: 1140579,
+        sv: 6
+      },
+    }
   ],
 }

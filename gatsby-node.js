@@ -1,6 +1,6 @@
-const {resolve} = require('path');
+const {resolve} = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
-const config = require('./data/siteConfig');
+const config = require('./data/siteConfig')
 
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
@@ -41,7 +41,7 @@ exports.createPages = async ({ graphql, actions }) => {
     .filter(item => item.node.frontmatter.type !== 'page')
   
   // generate paginated post list
-  const postsPerPage = config.postsPerPage;
+  const postsPerPage = config.postsPerPage
   const nbPages = Math.ceil(posts.length / postsPerPage)
 
   Array.from({ length: nbPages }).forEach((_, i) => {
@@ -60,8 +60,8 @@ exports.createPages = async ({ graphql, actions }) => {
   // generate blog posts
   posts
     .forEach((post, index, posts) => {
-      const previous = index === posts.length - 1 ? null : posts[index + 1].node;
-      const next = index === 0 ? null : posts[index - 1].node;
+      const previous = index === posts.length - 1 ? null : posts[index + 1].node
+      const next = index === 0 ? null : posts[index - 1].node
 
       createPage({
         path: post.node.frontmatter.slug,

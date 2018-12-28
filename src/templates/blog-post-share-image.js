@@ -14,6 +14,7 @@ const Preview = styled.div.attrs({
   background-image: url("${props => props.hero}");
   background-position: center;
   background-size: cover;
+  float: left;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -32,33 +33,16 @@ const Title = styled.h1.attrs({
   text-align: center;
 `
 
-const ReadTime = styled.h2.attrs({
-  fontSize: props => (props.type === 'twitter' ? '1.5rem' : '2rem'),
-})`
-  vertical-align: middle;
-  font-size: ${props => props.fontSize};
-  text-align: center;
-  color: #fff;
-  ::before {
-    padding: 0.4em;
-    content: '👁';
-  }
-`
-
 class BlogPostShareImage extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const { width, height, type } = this.props.pageContext
     const heroImg = post.frontmatter.cover && post.frontmatter.cover.publicURL
-    const minute = post.timeToRead === 1 ? 'min' : 'mins'
 
     return (
       <Preview width={width} height={height} hero={heroImg}>
         <GlobalStyle />
         <Title type={type}>{post.frontmatter.title}</Title>
-        <ReadTime type={type}>
-          {post.timeToRead} {minute}
-        </ReadTime>
       </Preview>
     )
   }

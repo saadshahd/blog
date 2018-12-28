@@ -37,6 +37,25 @@ class BlogPostTemplate extends React.Component {
         />
 
         <Wrapper>
+          <p style={{
+            position: 'absolute',
+            top: 0,
+            right: 0,
+            left: 0,
+            fontSize: '0.85rem',
+            textAlign: 'center',
+            backgroundColor: '#fafafa',
+            lineHeight: 1.2,
+            color: '#666',
+            padding: '12px 0 6px 0'
+          }}>
+          بإمكانك الإنتهاء من النص في
+          {
+            post.fields.readingTime.minutes <= 1 ? `دقيقة واحدة` :
+              post.fields.readingTime.minutes <= 2 ? `دقيقتين` :
+                `${Math.ceil(post.fields.readingTime.minutes).toLocaleString('ar-EG')} دقائق فقط`
+          }.
+          </p>
           <Article post={post} />
         </Wrapper>
 
@@ -71,6 +90,12 @@ export const pageQuery = graphql`
         }
         imageFb {
           publicURL
+        }
+      }
+      fields {
+        readingTime {
+          minutes
+          words
         }
       }
     }
