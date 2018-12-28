@@ -1,2 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
+Sitemap: https://xturbine.io/sitemap.xml
+Host: https://xturbine.io
