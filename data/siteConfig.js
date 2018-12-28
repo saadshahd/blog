@@ -16,7 +16,7 @@ module.exports = {
   theme_color: '#222222',
   display: 'minimal-ui',
   icon: 'src/assets/gatsby-icon.png',
-  postsPerPage: 6,
+  postsPerPage: 10,
   headerLinks: [
     {
       label: 'الكتابات',

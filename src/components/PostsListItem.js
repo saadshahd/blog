@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import Flag from './Flag/Flag'
+import TagList from './TagList'
 import siteConfig from '../../data/siteConfig'
 import styled from 'styled-components'
 
@@ -11,6 +12,9 @@ const Post = styled.article`
 
 const PostHeader = styled.header`
   padding: .5em 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 `
 
 const Excerpt = styled.p`
@@ -25,7 +29,7 @@ const PostTitleLink = styled(Link)`
 
 class PostsListItem extends React.Component {
   render() {
-    const { title, excerpt, slug, language } = this.props
+    const { title, excerpt, slug, language, tags } = this.props
 
     return (
       <Post>
@@ -36,6 +40,8 @@ class PostsListItem extends React.Component {
               {title}
             </PostTitleLink>
           </h2>
+
+          <TagList tags={tags} />
         </PostHeader>
         <section>
           <Excerpt dangerouslySetInnerHTML={{ __html: excerpt }} />
