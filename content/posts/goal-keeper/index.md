@@ -5,8 +5,8 @@ cover: ./cover.jpg
 date: 2018-10-15
 language: ar
 generate-card: true
-imageTw: ./cover.jpg
-imageFb: ./cover.jpg
+imageTw: ./goal-keeper-tw.png
+imageFb: ./goal-keeper-fb.png
 disqus: false
 tags:
   - تمارين كتابة

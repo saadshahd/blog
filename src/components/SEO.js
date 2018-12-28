@@ -9,10 +9,7 @@ class SEO extends React.Component {
     const title = this.props.title
       ? `${this.props.title} | ${siteConfig.siteTitle}`
       : siteConfig.siteTitle
-    const formatedSiteUrl = siteConfig.siteUrl.substring(
-      0,
-      siteConfig.siteUrl.length - 1
-    )
+    const formatedSiteUrl = siteConfig.siteUrl;
     const imagePath =
       this.props.imageFb || this.props.cover || withPrefix(siteConfig.siteCover)
     const imagePathTwitter =

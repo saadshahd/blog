@@ -5,8 +5,8 @@ cover: ./cover.jpg
 date: 2018-10-20
 language: ar
 generate-card: true
-imageTw: ./cover.jpg
-imageFb: ./cover.jpg
+imageTw: ./rushing-to-the-chasm-tw.png
+imageFb: ./rushing-to-the-chasm-fb.png
 disqus: false
 tags:
   - تمارين كتابة

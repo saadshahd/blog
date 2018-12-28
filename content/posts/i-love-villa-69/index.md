@@ -5,8 +5,8 @@ cover: ./cover.jpeg
 date: 2018-09-21
 language: ar
 generate-card: true
-imageTw: ./cover.jpeg
-imageFb: ./cover.jpeg
+imageTw: ./i-love-villa-69-tw.png
+imageFb: ./i-love-villa-69-fb.png
 disqus: false
 tags:
   - سينما

@@ -5,8 +5,8 @@ cover: ./cover.jpg
 date: 2018-12-23
 language: ar
 generate-card: true
-imageTw: ./cover.jpg
-imageFb: ./cover.jpg
+imageTw: ./comedy-movies-tw.png
+imageFb: ./comedy-movies-fb.png
 disqus: false
 tags:
   - ترشيحات أفلام

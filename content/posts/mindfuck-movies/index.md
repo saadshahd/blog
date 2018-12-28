@@ -5,8 +5,8 @@ cover: ./cover.jpg
 date: 2018-12-27
 language: ar
 generate-card: true
-imageTw: ./cover.jpg
-imageFb: ./cover.jpg
+imageTw: ./mindfuck-movies-tw.png
+imageFb: ./mindfuck-movies-fb.png
 disqus: false
 tags:
   - ترشيحات أفلام

@@ -5,8 +5,8 @@ cover: ./cover.jpg
 date: 2018-10-13
 language: ar
 generate-card: true
-imageTw: ./cover.jpg
-imageFb: ./cover.jpg
+imageTw: ./hon-tw.png
+imageFb: ./hon-fb.png
 disqus: false
 tags:
   - تمارين كتابة

@@ -5,8 +5,8 @@ cover: ./cover.jpg
 date: 2018-10-10
 language: ar
 generate-card: true
-imageTw: ./cover.jpg
-imageFb: ./cover.jpg
+imageTw: ./yokel-tw.png
+imageFb: ./yokel-fb.png
 disqus: false
 tags:
   - تمارين كتابة

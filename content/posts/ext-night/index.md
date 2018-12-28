@@ -5,8 +5,8 @@ cover: ./cover.png
 date: 2018-12-25
 language: ar
 generate-card: true
-imageTw: ./cover.png
-imageFb: ./cover.png
+imageTw: ./ext-night-tw.png
+imageFb: ./ext-night-fb.png
 disqus: false
 tags:
   - مشاهدات سينما
