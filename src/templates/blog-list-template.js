@@ -15,8 +15,6 @@ class BlogList extends React.Component {
     const posts = get(this, 'props.data.allMarkdownRemark.edges')
     const { pageContext } = this.props
 
-    console.log(posts);
-
     return (
       <Layout location={this.props.location}>
         <SEO />

@@ -11,7 +11,6 @@ const HeroContainer = styled.div`
   overflow: hidden;
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
 `
 
 const TitleContainer = styled.div`
@@ -30,11 +29,15 @@ const HeroTitle = styled.h1`
 
 class Hero extends React.Component {
   render() {
+    const isContain = this.props.isContain;
     const heroImg = this.props.heroImg || withPrefix(siteConfig.siteCover)
     const { title } = this.props
 
     return (
-      <HeroContainer style={{ backgroundImage: `url("${heroImg}")` }}>
+      <HeroContainer style={{
+        backgroundImage: `url("${heroImg}")`,
+        backgroundSize: isContain ? 'contain' : 'cover'
+      }}>
         <TitleContainer>
           <HeroTitle>{title}</HeroTitle>
         </TitleContainer>

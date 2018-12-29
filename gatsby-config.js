@@ -42,6 +42,8 @@ module.exports = {
               maxWidth: 590,
               linkImagesToOriginal: false,
               withWebp: true,
+              quality: 100,
+              pngCompressionLevel: 0
             },
           },
           {
@@ -66,13 +68,7 @@ module.exports = {
       },
     },
     `gatsby-transformer-sharp`,
-    {
-      resolve: `gatsby-plugin-sharp`,
-      options: {
-        quality: 100,
-        pngCompressionLevel: 0
-      },
-    },
+    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {

@@ -39,7 +39,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
   const posts = markdownFiles
     .filter(item => item.node.frontmatter.type !== 'page')
-  
+
   // generate paginated post list
   const postsPerPage = config.postsPerPage
   const nbPages = Math.ceil(posts.length / postsPerPage)

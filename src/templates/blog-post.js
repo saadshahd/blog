@@ -34,6 +34,7 @@ class BlogPostTemplate extends React.Component {
         <Hero
           heroImg={post.frontmatter.cover && post.frontmatter.cover.publicURL}
           title={post.frontmatter.title}
+          isContain={post.frontmatter.isContain}
         />
 
         <Wrapper>
@@ -82,6 +83,7 @@ export const pageQuery = graphql`
         slug
         language
         tags
+        isContain
         cover {
           publicURL
         }
