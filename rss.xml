@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[التوربين الساكن]]></title><description><![CDATA[أنا سعد،]]></description><link>https://xturbine.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 05 Jan 2019 01:00:50 GMT</lastBuildDate><item><title><![CDATA[أفلام تُنقذ من الإدمان]]></title><description><![CDATA[هذه قائمة محدثة تحتوي الأفلام التي أنقذتني من الإنجراف.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[التوربين الساكن]]></title><description><![CDATA[أنا سعد،]]></description><link>https://xturbine.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 05 Jan 2019 02:04:56 GMT</lastBuildDate><item><title><![CDATA[أفلام تُنقذ من الإدمان]]></title><description><![CDATA[هذه قائمة محدثة تحتوي الأفلام التي أنقذتني من الإنجراف.
 ]]></description><link>https://xturbine.io/saving-from-addiction-movies/</link><guid isPermaLink="false">https://xturbine.io/saving-from-addiction-movies/</guid><pubDate>Sat, 05 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;هذه قائمة محدثة تحتوي الأفلام التي أنقذتني من الإنجراف.&lt;/p&gt;
 &lt;!-- end --&gt;
 &lt;h3 id=&quot;2&quot;&gt;&lt;a href=&quot;#2&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;(2)&lt;/h3&gt;
@@ -61,31 +61,31 @@
     &gt;&lt;/span&gt;
     &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/c76b40fc43e57f1db0daa95126a209e2/1a0ea/withnail-and-I.webp 148w,
-/static/c76b40fc43e57f1db0daa95126a209e2/d501d/withnail-and-I.webp 295w,
-/static/c76b40fc43e57f1db0daa95126a209e2/5acf1/withnail-and-I.webp 590w,
-/static/c76b40fc43e57f1db0daa95126a209e2/41ef2/withnail-and-I.webp 885w,
-/static/c76b40fc43e57f1db0daa95126a209e2/2b38c/withnail-and-I.webp 1180w,
-/static/c76b40fc43e57f1db0daa95126a209e2/9b357/withnail-and-I.webp 1770w,
-/static/c76b40fc43e57f1db0daa95126a209e2/d618c/withnail-and-I.webp 1920w&quot;
+          srcset=&quot;/static/c76b40fc43e57f1db0daa95126a209e2/1a0ea/withnail-and-i.webp 148w,
+/static/c76b40fc43e57f1db0daa95126a209e2/d501d/withnail-and-i.webp 295w,
+/static/c76b40fc43e57f1db0daa95126a209e2/5acf1/withnail-and-i.webp 590w,
+/static/c76b40fc43e57f1db0daa95126a209e2/41ef2/withnail-and-i.webp 885w,
+/static/c76b40fc43e57f1db0daa95126a209e2/2b38c/withnail-and-i.webp 1180w,
+/static/c76b40fc43e57f1db0daa95126a209e2/9b357/withnail-and-i.webp 1770w,
+/static/c76b40fc43e57f1db0daa95126a209e2/d618c/withnail-and-i.webp 1920w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/c76b40fc43e57f1db0daa95126a209e2/f43e6/withnail-and-I.jpg 148w,
-/static/c76b40fc43e57f1db0daa95126a209e2/d0376/withnail-and-I.jpg 295w,
-/static/c76b40fc43e57f1db0daa95126a209e2/380ca/withnail-and-I.jpg 590w,
-/static/c76b40fc43e57f1db0daa95126a209e2/2f231/withnail-and-I.jpg 885w,
-/static/c76b40fc43e57f1db0daa95126a209e2/99aae/withnail-and-I.jpg 1180w,
-/static/c76b40fc43e57f1db0daa95126a209e2/22694/withnail-and-I.jpg 1770w,
-/static/c76b40fc43e57f1db0daa95126a209e2/aae88/withnail-and-I.jpg 1920w&quot;
+          srcset=&quot;/static/c76b40fc43e57f1db0daa95126a209e2/f43e6/withnail-and-i.jpg 148w,
+/static/c76b40fc43e57f1db0daa95126a209e2/d0376/withnail-and-i.jpg 295w,
+/static/c76b40fc43e57f1db0daa95126a209e2/380ca/withnail-and-i.jpg 590w,
+/static/c76b40fc43e57f1db0daa95126a209e2/2f231/withnail-and-i.jpg 885w,
+/static/c76b40fc43e57f1db0daa95126a209e2/99aae/withnail-and-i.jpg 1180w,
+/static/c76b40fc43e57f1db0daa95126a209e2/22694/withnail-and-i.jpg 1770w,
+/static/c76b40fc43e57f1db0daa95126a209e2/aae88/withnail-and-i.jpg 1920w&quot;
           sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/static/c76b40fc43e57f1db0daa95126a209e2/380ca/withnail-and-I.jpg&quot;
+          src=&quot;/static/c76b40fc43e57f1db0daa95126a209e2/380ca/withnail-and-i.jpg&quot;
           alt=&quot;Withnail and I&quot;
           title=&quot;&quot;
         /&gt;
