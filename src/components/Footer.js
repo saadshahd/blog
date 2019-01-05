@@ -30,7 +30,7 @@ const FooterWrapper = styled.footer`
 
   & a {
     color: #ffffff;
-    font-family: Mirza, cursive;
+    font-family: Lateef, cursive;
 
     &:hover {
       color: #e8e8e8;

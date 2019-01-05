@@ -55,17 +55,17 @@ h6 {
 
 html {
   direction: rtl;
-  font-size: 148%;
+  font-size: 180%;
 }
 
 body {
-  font-family: 'Rakkas', cursive;
+  font-family: 'Jomhuria', cursive;
   color: rgba(0, 0, 0, 0.75);
   background-color: #e8e8e8;
 }
 
 p {
-  font-family: Mirza, cursive;
+  font-family: Lateef, cursive;
 }
 
 img {

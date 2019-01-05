@@ -91,7 +91,7 @@ const ContentBody = styled.div`
 
   & .poem {
     white-space: pre;
-    font-family: Mirza, cursive;
+    font-family: Lateef, cursive;
     display: flex;
     justify-content: center;
   }
