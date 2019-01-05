@@ -4,11 +4,6 @@ import Bio from './Bio'
 import Content from './Content'
 
 const ArticleWrapper = styled.article`
-  padding: 10px 30px 30px 0;
-
-  @media only screen and (max-width: 500px) {
-    padding: 0;
-  }
 `
 
 const ArticleFooter = styled.footer`

@@ -1,7 +1,7 @@
 ---
 title: "أفلام تُنقذ من الإدمان"
 slug: saving-from-addiction-movies
-cover: ./cover.png
+cover: ./cover.jpg
 date: 2019-01-05
 language: ar
 generate-card: true

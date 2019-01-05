@@ -95,6 +95,6 @@ export const StyledLink = styled(Link)`
 `
 
 export const Text = styled.p`
-  line-height: 1.3;
+  line-height: 1.2;
   margin: 1em 0 0 0;
 `

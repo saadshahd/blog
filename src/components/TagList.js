@@ -6,6 +6,10 @@ const ListContainer = styled.div`
   display: inline;
   margin: 0 0 0 0.5rem;
   color: #7f7e7e;
+
+  &:last-child {
+    margin: 0
+  }
 `
 
 const TagListItem = styled(Link)`

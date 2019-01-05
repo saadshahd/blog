@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import TagList from './TagList'
 
 const Header = styled.header`
-  margin-bottom: 2rem;
+  margin: 1rem 0;
   color: #7f7e7e;
   display: flex;
   align-items: center;
