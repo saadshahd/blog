@@ -19,11 +19,15 @@ const TagListItem = styled(Link)`
   &:hover {
     border-bottom: 1px dotted #7f7e7e;
   }
+
+  &:last-child {
+    margin-left: 0;
+  }
 `
 
 class TagList extends React.Component {
   render() {
-    const { tags, icon } = this.props
+    const { tags } = this.props
 
     return (
       <ListContainer>
