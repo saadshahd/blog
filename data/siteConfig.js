@@ -63,4 +63,6 @@ module.exports = {
       }
     ],
   ],
+
+  color1: '#f95b3a'
 }

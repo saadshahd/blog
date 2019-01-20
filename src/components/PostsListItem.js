@@ -7,7 +7,7 @@ import styled from 'styled-components'
 
 const Post = styled.article`
   padding-bottom: 1rem;
-  margin-bottom: 0.8rem;
+  margin-bottom: 0.68rem;
   border-bottom: 1px solid #eee;
 
   &:last-child {
@@ -31,11 +31,7 @@ const Excerpt = styled.p`
   padding-left: 32%;
 `
 
-const PostTitleLink = styled(Link)`
-  &:hover {
-    border-bottom: 1px dotted rgba(34, 34, 34, 0.8);
-  }
-`
+const PostTitleLink = styled(Link)``
 
 class PostsListItem extends React.Component {
   render() {

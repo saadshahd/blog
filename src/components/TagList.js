@@ -16,10 +16,6 @@ const TagListItem = styled(Link)`
   margin-left: 0.3rem;
   color: #7f7e7e;
 
-  &:hover {
-    border-bottom: 1px dotted #7f7e7e;
-  }
-
   &:last-child {
     margin-left: 0;
   }

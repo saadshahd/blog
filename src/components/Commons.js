@@ -1,6 +1,7 @@
 import styled from 'styled-components'
 import { createGlobalStyle } from 'styled-components'
 import { Link } from 'gatsby'
+import siteConfig from '../../data/siteConfig'
 
 export const GlobalStyle = createGlobalStyle`
 @font-face {
@@ -60,8 +61,8 @@ html {
 
 body {
   font-family: 'Jomhuria', cursive;
-  color: rgba(0, 0, 0, 0.75);
-  background-color: #e8e8e8;
+  color: #302c2a;
+  background-color: #FDEDE3;
 }
 
 p {
@@ -77,7 +78,11 @@ img {
 
 a {
   text-decoration: none;
-  color: rgba(34,34,34,0.8);
+  color: #5C2B10;
+
+  &:hover {
+    color: ${siteConfig.color1}
+  }
 }
 
 ul,

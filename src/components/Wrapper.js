@@ -13,7 +13,7 @@ const Wrapper = styled.main.attrs({
   margin: 0px auto 30px auto;
   top: 30px;
   padding: 36px 30px 30px;
-  box-shadow: 0 0 0 0, 0 6px 12px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.1);
 
   @media (max-width: 780px) {
     width: 90%;

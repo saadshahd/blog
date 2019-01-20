@@ -30,10 +30,6 @@ const ContentBody = styled.div`
   & a {
     border-bottom: 1px dotted rgba(162, 162, 162, 0.8);
 
-    &:hover {
-      border-bottom-style: solid;
-    }
-
     &.anchor,
     &.gatsby-resp-image-link {
       border: none;

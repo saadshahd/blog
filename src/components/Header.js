@@ -4,9 +4,8 @@ import styled from 'styled-components'
 import siteConfig from '../../data/siteConfig'
 
 const HeaderWrapper = styled.header`
-  position: fixed;
+  position: absolute;
   top: 0;
-  left: 0;
   margin: 0 auto;
   width: 100%;
   z-index: 1000;
@@ -16,7 +15,7 @@ const HeaderWrapper = styled.header`
 
   & .face {
     display: block;
-    margin: 10px 0 10px 40px;
+    margin: 10px 0 10px 30px;
     height: 40px;
     width: 40px;
     border-radius: 50%;
@@ -33,17 +32,21 @@ const HeaderNav = styled.nav`
 `
 
 const HeaderLink = styled(Link)`
-  position: relative;
   display: flex;
   align-items: center;
   color: #fff;
-  border: 0;
-  margin: 0;
-  margin-left: 0.5rem;
-  padding-left: 20px;
-  padding-right: 20px;
-  min-width: 42px;
-  z-index: 10;
+  padding: 0 10px;
+  margin: 10px 0 10px 10px;
+  transition: all 0.3s;
+
+  &:last-child {
+    margin-left: 0;
+  }
+
+  &:hover {
+    color: white;
+    background: rgba(250, 91, 59, 0.5);
+  }
 `
 
 class Header extends React.Component {

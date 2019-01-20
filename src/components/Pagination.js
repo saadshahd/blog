@@ -9,14 +9,12 @@ const PaginationWrapper = styled.nav`
   align-items: center;
   margin-top: 4em;
   justify-content: space-between;
-  width: 80%;
-  max-width: 770px;
+  width: 100%;
   padding: 25px 0;
   margin: 0px auto;
 
   @media (max-width: 780px) {
     width: 90%;
-    padding: 25px 0;
   }
 `
 
