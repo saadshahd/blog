@@ -90,6 +90,20 @@ ol {
   padding-left: 2em;
   margin: 1em 0 0 0;
 }
+
+.gatsby-resp-image-link,
+.img-like {
+  width: 350px;
+  display: inline-block !important;
+  vertical-align: middle;
+  margin: 0 2.5px 5px;
+}
+
+.img-like {
+  padding 5px;
+  margin-right: -2px;
+  margin-left: 0;
+}
 `
 export const StyledLink = styled(Link)`
   border-bottom: 1px dotted rgba(162, 162, 162, 0.8);

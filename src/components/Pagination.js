@@ -9,7 +9,7 @@ const PaginationWrapper = styled.nav`
   align-items: center;
   margin-top: 4em;
   justify-content: space-between;
-  width: 100%;
+  width: 41%;
   padding: 25px 0;
   margin: 0px auto;
 
